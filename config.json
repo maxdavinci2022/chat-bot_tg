@@ -1,0 +1,43 @@
+{
+ "модель_путь": "C:\\Pollzovateli\\Админ\\AppData\\Local\\nomic.ai\\GPT4Все\\мпт-7б-чат.ггуф4. . . . .Кьюзилуклюзи4_0. .ггуф,
+ "default_language": "ру",
+ "макс_токены": 100,
+ "игры": {
+ "города": "города",
+ "викторина": "викторина",
+ "квест": "квест",
+ "рпг": "ролевые игры",
+ "музика_викторина": "музыкалная викторина",
+ "geo_quiz": "гео-угадайки",
+ "карты": "карточные игры",
+ "мем_игра": "игры-мемы",
+ "тренажер": "симуляторы",
+ "логика_игра": "мини-игры на логику",
+ "экономическая запотовка": "экономическое дело",
+ "музыка_победа": "музикальные викторины",
+ "coop_game": "кооперативные игры",
+ "мульти_города": "города (мультиплер)",
+ "мульти_квест": "квест (мультиплер)"
+ },
+ "наклейки": {
+ "Мастер городов": "CAACAgIAAxkBAAIBlGZ7lD8AAX8AAVvE8vW9z8e5AAH5TwAC8xMAAvPjmUjW5r5AAbYBAAJjBA",
+ "Король" викторин: "CAACAgIAAxkBAAIBlWZ7lEIAAX8AAVvE8vW9z8e5AAH5TwAC8xMAAvPjmUjW5r5AAbYBAAJjBA",
+ "Искательский приключенский": "CAACAgIAAxkBAAIBlmZ7lEZAAX8AAVvE8vW9z8e5AAH5TwAC8xMAAvPjmUjW5r5AAbYBAAJjBA",
+ "Легендарный рыцарь": "CAACAgIAAxkBAAIBl2Z7lEkAAX8AAVvE8vW9z8e5AAH5TwAC8xMAAvPjmUjW5r5AAbYBAAJjBA",
+ "Меломан": "CAACAgIAAxkBAAIBmGZ7lEzAAX8AAVvE8vW9z8e5AAH5TwAC8xMAAvPjmUjW5r5AAbYBAAJjBA",
+ "Гео-мастер": "CAACAgIAAxkBAAIBmWZ7lFAAAX8AAVvE8vW9z8e5AAH5TwAC8xMAAvPjmUjW5r5AAbYBAAJjBA",
+ "Карточный король": "CAACAgIAAxkBAAIBmmZ7lFLAAX8AAVvE8vW9z8e5AAH5TwAC8xMAAvPjmUjW5r5AAbYBAAJjBA",
+ "Мемный гений": "CAACAgIAAxkBAAIBnGZ7lFzAAX8AAVvE8vW9z8e5AAH5TwAC8xMAAvPjmUjW5r5AAbYBAAJjBA",
+ "Великий мэр": "CAACAgIAAxkBAAIBnWZ7lGAAAX8AAVvE8vW9z8e5AAH5TwAC8xMAAvPjmUjW5r5AAbYBAAJjBA",
+ "Мастер Логики": "CAACAgIAAxkBAAIBnmZ7lGLAAX8AAVvE8vW9z8e5AAH5TwAC8xMAAvPjmUjW5r5AAbYBAAJjBA",
+ "Бизнес-магнат": "CAACAgIAAxkBAAIBoGZ7lGfAAX8AAVvE8vW9z8e5AAH5TwAC8xMAAvPjmUjW5r5AAbYBAAJjBA",
+ "Музычный": "CAACAgIAAxkBAAIBomZ7lG0AAX8AAVvE8vW9z8e5AAH5TwAC8xMAAvPjmUjW5r5AAbYBAAJjBA",
+ "Командный игрок": "CAACAgIAAxkBAAIBo2Z7lHAAAX8AAVvE8vW9z8e5AAH5TwAC8xMAAvPjmUjW5r5AAbYBAAJjBA"
+ },
+ "звезды_stoymostli": {
+ "подсказка": 5,
+ "усилье": 10,
+ "пакет_50": 50,
+ "пак_100": 100
+    }
+}
